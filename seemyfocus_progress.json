@@ -1,0 +1,45 @@
+{
+  "level": 7,
+  "xp": 625,
+  "xp_to_next_level": 1135,
+  "total_sessions": 23,
+  "lifetime_wellness": 0,
+  "coaching_style": "Intense",
+  "privacy_shield": true,
+  "audio_cues": true,
+  "health_streak": 0,
+  "dark_mode": true,
+  "persistent_streak_count": 0,
+  "achievements": {
+    "first_session": {
+      "unlocked": true,
+      "title": "First Steps",
+      "description": "Complete your first session"
+    },
+    "focus_master": {
+      "unlocked": false,
+      "title": "Focus Master",
+      "description": "Reach 10 cycle streak"
+    },
+    "wellness_warrior": {
+      "unlocked": false,
+      "title": "Wellness Warrior",
+      "description": "Earn 500 wellness points"
+    },
+    "level_5": {
+      "unlocked": true,
+      "title": "Rising Star",
+      "description": "Reach level 5"
+    },
+    "perfect_day": {
+      "unlocked": false,
+      "title": "Perfect Day",
+      "description": "Complete 5 cycles in one session"
+    },
+    "streak_legend": {
+      "unlocked": false,
+      "title": "Streak Legend",
+      "description": "Maintain 20 cycle streak"
+    }
+  }
+}
